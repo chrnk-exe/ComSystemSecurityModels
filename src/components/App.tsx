@@ -72,11 +72,10 @@ export default function App() {
 			document.body.appendChild(element);
 
 			element.click();
-
 			document.body.removeChild(element);
 			// Start file download.
-			download(`matrix_${Date.now()}.json`, JSON.stringify(data));
 		}
+		download(`matrix_${Date.now()}.json`, JSON.stringify(data));
 	};
 
 	const checkRulesInput = (e: React.ChangeEvent<HTMLInputElement>): void => {
