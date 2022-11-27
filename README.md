@@ -1,7 +1,15 @@
-## Лабораторные работы 2 и 3 по дисциплине Модели Безопасности Компьютерных Систем
+## Сomputer system security models 
 
-# Подготовили студенты группы 9361 Котов Иван Алексеевич и Султанов Дмитрий Павлович.
+Completed by students (gr. 9361):
+- Dmitry Sultanov
+- Ivan Kotov
 
-В ходе данных лабораторных работ были реализованы:
-- Модель дискреционного доступа схема ХРУ
-- Модель распространения прав доступа Take-Grant
+| List of Labs  |     Stage     
+| ------------- |:-----------
+| Lab 1| ✅ |
+| Lab 2| ✅ |
+| Lab 3| ✅ |
+| Lab 4| ✅ |
+
+<ul><li>Python 3.10, Typescript
+<li><b>Using libs:</b> React, ReduxToolkit, Material UI

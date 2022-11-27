@@ -1,0 +1,1 @@
+{"directories/Dimas": {"id": "top_secret", "title": "Top Secret", "value": 10}, "directories/Vanya": {"id": "confidential", "title": "Confidential", "value": 4}, "directories/SecretDir": {"id": "secret", "title": "Secret", "value": 6}, "directories/NonSecretDir": {"id": "public", "title": "Public", "value": 0}}
